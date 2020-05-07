@@ -1,0 +1,8 @@
+Mosaic,马赛克，史上第一浏览器1963年
+面试
+浏览器分为两大部分 shell(外核) 内核
+IE         trident
+chorme     webkit/blink
+firefox    Gecko
+opera      Presto
+Safari     webkit
